@@ -1,0 +1,1 @@
+Consists of sample code to delegate "transfer functionality" of ERC20 token.
